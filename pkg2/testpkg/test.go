@@ -1,7 +1,7 @@
-package testpkg
+package testpkg2
 
-import "log"
+import "github.com/HsuTzuJen/multimodtest/pkg/testpkg"
 
 func Tester() {
-	log.Println("hihi")
+	testpkg.Tester()
 }
