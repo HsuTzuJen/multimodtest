@@ -1,8 +1,7 @@
-package common
+package testpkg
 
 import "testing"
 
 func TestMe(t *testing.T) {
-	Tester()
 	t.Logf("OK")
 }
