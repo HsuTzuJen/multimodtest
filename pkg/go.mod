@@ -3,7 +3,7 @@ module git.insea.io/booyah/server/kakarot/pkg
 go 1.16
 
 require (
-	git.insea.io/hsucar/versiontest v1.0.0
+	git.insea.io/hsucar/versiontest v1.3.0
 	github.com/HdrHistogram/hdrhistogram-go v1.1.2 // indirect
 	github.com/Shopify/sarama v1.29.1
 	github.com/jonboulle/clockwork v0.2.2 // indirect

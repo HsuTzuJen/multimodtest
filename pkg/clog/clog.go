@@ -81,7 +81,7 @@ func InitLog(config Config) error {
 		}
 	}
 
-	Logger.Infof("clog v1.0.0\n")
+	Logger.Infof("clog v1.3.0\n")
 	Logger.Infof("mod git.insea.io/hsucar/versiontest %s", version.Ver)
 
 	return nil
