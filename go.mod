@@ -1,4 +1,4 @@
-module git.insea.io/booyah/server/kakarot
+module github.com/HsuTzuJen/multimodtestgit
 
 go 1.16
 

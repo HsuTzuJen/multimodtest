@@ -1,4 +1,4 @@
-module git.insea.io/booyah/server/kakarot/pkg
+module github.com/HsuTzuJen/multimodtestgit/pkg
 
 go 1.16
 
@@ -18,4 +18,4 @@ require (
 	go.uber.org/atomic v1.9.0 // indirect
 )
 
-replace git.insea.io/booyah/server/kakarot => ./FORBIDDEN_DEPENDENCY
+replace github.com/HsuTzuJen/multimodtestgit => ./FORBIDDEN_DEPENDENCY

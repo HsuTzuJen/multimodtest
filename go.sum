@@ -1,6 +1,6 @@
 dmitri.shuralyov.com/gpu/mtl v0.0.0-20190408044501-666a987793e9/go.mod h1:H6x//7gZCb22OMCxBHrMx7a5I7Hp++hsVxbQ4BYO7hU=
-git.insea.io/hsucar/versiontest v1.0.0 h1:DeqbPs79tfd6cQRu9XsLG+2KcZlINAbFgwO1p6n9BS8=
-git.insea.io/hsucar/versiontest v1.0.0/go.mod h1:6EQaVB396PUd2G/BF7mk2JQNR4qd5yXWaZi2w5v9Pgw=
+git.insea.io/hsucar/versiontest v1.3.0 h1:vaMu21EWFEs/t7kfohcxrVhRpha6JxarE+V3Mf7vLD4=
+git.insea.io/hsucar/versiontest v1.3.0/go.mod h1:6EQaVB396PUd2G/BF7mk2JQNR4qd5yXWaZi2w5v9Pgw=
 github.com/BurntSushi/xgb v0.0.0-20160522181843-27f122750802/go.mod h1:IVnqGOEym/WlBOVXweHU+Q+/VP0lqqI8lqeDx9IjBqo=
 github.com/HdrHistogram/hdrhistogram-go v1.1.2 h1:5IcZpTvzydCQeHzK4Ef/D5rrSqwxob0t8PQPMybUNFM=
 github.com/HdrHistogram/hdrhistogram-go v1.1.2/go.mod h1:yDgFjdqOqDEKOvasDdhWNXYg9BVp4O+o5f6V/ehm6Oo=
