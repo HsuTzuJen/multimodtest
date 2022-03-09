@@ -1,4 +1,4 @@
-module github.com/HsuTzuJen/multimodtestgit/pkg
+module github.com/HsuTzuJen/multimodtest/pkg
 
 go 1.16
 
@@ -18,4 +18,4 @@ require (
 	go.uber.org/atomic v1.9.0 // indirect
 )
 
-replace github.com/HsuTzuJen/multimodtestgit => ./FORBIDDEN_DEPENDENCY
+replace github.com/HsuTzuJen/multimodtest => ./FORBIDDEN_DEPENDENCY
